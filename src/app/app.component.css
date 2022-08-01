@@ -1,0 +1,5 @@
+slice-flex{
+  display: flex;
+}
+.defer-load{display: none}
+.skeleton{display: none}
